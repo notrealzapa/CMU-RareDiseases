@@ -1,1 +1,1 @@
-*.safetensors
+ml_pipeline/results/unet/diffusion_pytorch_model.safetensors
